@@ -1,6 +1,6 @@
 ## match_cv_ministerio_da_familia
 
-Esse código adapta um modelo de análise de cúrriculos da área de recursos humanos para encontrar um perfil específico.
+Esse código adapta um modelo de análise de cúrriculos da área de recursos humanos para encontrar um perfil específico entre os integrantes do MMFDH.
 
 ### O que o modelo faz?
 O modelo extrai textos de currículos de integrantes do Ministério das Mulheres, Família e Direitos Humanos.
