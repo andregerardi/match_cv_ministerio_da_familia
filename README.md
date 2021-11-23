@@ -5,5 +5,5 @@ Esse código adapta um modelo de análise de cúrriculos da área de recursos hu
 ### Objetivo:
 O modelo extrai textos de currículos de integrantes do MMFDH.
 
-### Metódo:
+### Método:
 A partir de termos encontrados no interior dos textos, busco CVs que se enquadram num perfil específico: [egressos da Universidade Mackenzie, da Fundação Republicana Brasileira, formados em teologia e que utilizam a palavra "deus" em seus textos, entre outras informações].
